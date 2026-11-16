@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LinguaMaster</string>
+    <string name="tagline">تعلم الإنجليزية والألمانية باحترافية</string>
+    <string name="nav_learn">تعلم</string>
+    <string name="nav_practice">ممارسة</string>
+    <string name="nav_vocabulary">المفردات</string>
+    <string name="nav_profile">الملف الشخصي</string>
+    <string name="language_en">الإنجليزية (English)</string>
+    <string name="language_de">الألمانية (Deutsch)</string>
+    <string name="continue_btn">متابعة</string>
+    <string name="check_btn">تحقق</string>
+    <string name="next_btn">التالي</string>
+    <string name="correct_answer">إجابة صحيحة! أحسنت 🌟</string>
+    <string name="wrong_answer">إجابة خاطئة! حاول مجدداً</string>
+    <string name="lesson_completed">تهانينا! أكملت الدرس بنجاح 🎉</string>
+    <string name="xp_earned">نقاط XP مكتسبة:</string>
+    <string name="hearts_left">القلوب المتبقية:</string>
+    <string name="streak_days">أيام متتالية:</string>
+</resources>
